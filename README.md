@@ -39,9 +39,7 @@
 # :phone: SMS & Call flood:
 ```python3 pranker.py --method SMS --time 20 --threads 15 --target +90139625000```
 
-<p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
-</p>
+
 
 # 👉Thx LimerBoy
 
