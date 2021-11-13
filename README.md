@@ -44,5 +44,5 @@
   <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
 </p>
 
-# 👉Donate LimerBoy
-# 👇👇👇
+# 👉Thx LimerBoy
+
