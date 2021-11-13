@@ -1,9 +1,9 @@
-# :bomb: Impulse
+# :bomb: YuaxN_Prank
 ## Modern Denial-of-service ToolKit
 
 
 <p align="center">
-  <img src="https://i.ibb.co/rFct6QX/LOGO.png">
+  <img src="">
 </p>
 
 # :computer: Main window
