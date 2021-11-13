@@ -1,8 +1,5 @@
 # Created by Yuaxen
-# Import modules
-import os
-import sys
-import argparse
+
 
 # Go to current dir
 os.chdir(os.path.dirname(os.path.realpath(__file__)))
