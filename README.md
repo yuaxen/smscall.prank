@@ -1,5 +1,5 @@
 # :bomb: YuaxN_Prank
-## Modern Denial-of-service ToolKit
+## Do not use for fun
 
 
   
