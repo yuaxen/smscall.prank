@@ -10,7 +10,6 @@ os.chdir(os.path.dirname(os.path.realpath(__file__)))
 try:
     from tools.crash import CriticalError
     import tools.addons.clean
-    import tools.addons.logo
     import tools.addons.winpcap
     from tools.method import AttackMethod
 except ImportError as err:
