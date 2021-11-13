@@ -1,6 +1,7 @@
 # :bomb: YuaxN_Prank
-## Do not use for fun
-
+## Do not use for fun 
+# :bomb: via LimerBoy
+# :gift: Impulse.py file
 
   
 </p>
